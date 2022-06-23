@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Symposium on Benchmarking Robotic Object Manipulation
 
-You can use the [editor on GitHub](https://github.com/mrudorfer/SymBROM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+19-20 September 2022<br/>
+Kalyves, Crete, Greece
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<hr/>
+### About the Symposium
 
-### Markdown
+Grasping rigid objects has been reasonably studied under a wide variety of settings.
+The common measure of success is whether the robot is able to pick and hold an object for a few seconds.
+This setting is not realistic - depending on what we actually want to do with the object, we have to grasp in different ways.
+We therefore need to focus on complete tasks of manipulating objects.
+However, so far robotics suffers from impaired comparability of works on robotic object manipulation due to the lack of established benchmarks and tools for reproducible experiments.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goals of this Symposium therefore include presenting current works on benchmarking object manipulation as well as recent developments of tools for reproducible research; discussing which robotic manipulation tasks can be formalised and are suitable for benchmarking; identifiying further needs to push the community towards an uptake of existing benchmarks.
 
-```markdown
-Syntax highlighted code block
+<hr/>
+### Organisers
 
-# Header 1
-## Header 2
-### Header 3
+**Markus Vincze**<br/>
+Vienna University of Technology, Austria
 
-- Bulleted
-- List
+**Martin Rudorfer**<br/>
+University of Birmingham, UK
 
-1. Numbered
-2. List
+<hr/>
+### Program
 
-**Bold** and _Italic_ and `Code` text
+#### Monday, 19 September 2022
 
-[Link](url) and ![Image](src)
-```
+14:00 - Welcome lunch, purpose, agenda<br/>
+15:00 - Session 1: Benchmarking object manipulation<br/>
+16:30 - Coffee break<br/>
+17:00 - Session 2: Tools for reproducible robotics research<br/>
+18:30 - Discussion<br/>
+19:00 - Break<br/>
+20:00 - Dinner
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Tuesday, 20 September 2022
 
-### Jekyll Themes
+14:00 - Lunch with invited talk<br/>
+15:00 - Session 3: Novel benchmarks, presentations and discussions<br/>
+16:30 - Coffee break<br/>
+17:00 - Session 4: Community uptake, establishing benchmarks<br/>
+18:30 - Conclusion, Summary<br/>
+19:00 - Break<br/>
+20:00 - Dinner
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrudorfer/SymBROM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
