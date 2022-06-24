@@ -23,6 +23,9 @@ Vienna University of Technology, Austria
 **Martin Rudorfer**<br/>
 University of Birmingham, UK
 
+**Antonis Argyros**<br/>
+FORTH, Crete, Greece
+
 <hr/>
 ### Program
 
